@@ -1,0 +1,9 @@
+Compile:
+ozc -c Functor_Portas.oz
+
+ozc -c Functor_Circuitos.oz
+
+ozc -c Main.oz -o Main.oza
+
+Para executar:
+ozengine Main.oza --in http://www.mozart-oz.org/LICENSE --out LICENSE

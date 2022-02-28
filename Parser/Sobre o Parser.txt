@@ -1,0 +1,7 @@
+O que significa analisador?
+Um analisador é um componente compilador ou interpretador que divide os dados em elementos menores para facilitar a tradução para outro idioma. Um analisador recebe a entrada na forma de uma sequência de tokens, comandos interativos ou instruções de programa e os divide em partes que podem ser usadas por outros componentes na programação.
+
+Um analisador geralmente verifica todos os dados fornecidos para garantir que sejam suficientes para construir uma estrutura de dados na forma de uma árvore de análise sintática ou uma árvore de sintaxe abstrata.
+
+
+Neste repositorio, o Parser foi construido em Oz, e depois fiz ele em Haskell.
